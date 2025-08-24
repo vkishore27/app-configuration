@@ -2,4 +2,4 @@ build:
   id: 1010101
   version: 1.2.5
   name: "Git-Production-Build"
-  type: "Git Development Build"
+  type: "Git Production Build"
